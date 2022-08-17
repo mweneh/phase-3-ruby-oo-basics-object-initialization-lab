@@ -7,4 +7,4 @@ class Dog
 end
 
 kibe = Dog.new("Kibe", "Siberian Husk")
-puts kibe.breed
+puts kibe.name
